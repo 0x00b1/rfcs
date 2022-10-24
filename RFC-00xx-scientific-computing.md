@@ -27,7 +27,7 @@ RFC publications (e.g., motivation, metrics, references, etc.).
 PyTorch must adapt quickly to new and existing programming languages and 
 frameworks to stay relevant in the machine learning community; therefore, it 
 must improve its general-purpose scientific computing capabilities to keep pace 
-with user expectations about machine learning primitives.
+with either of the following user expectations:
 
 ## Implementation
 
