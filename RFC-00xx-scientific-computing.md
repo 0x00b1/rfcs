@@ -6,7 +6,8 @@
 
 ## Summary
 
-A “meta” Request for Comments (RFC) for scientific computing RFCs, e.g.,
+A “meta” Request for Comments (RFC) publication for PyTorch RFC publications 
+discussing scientific computing, e.g.,
 
 * Geometry
 * Integration
@@ -16,6 +17,10 @@ A “meta” Request for Comments (RFC) for scientific computing RFCs, e.g.,
 * Probability Distributions
 * Signal Processing
 * Special Functions
+
+This publication aims to provide a source for commonly shared components of 
+scientific computing RFC publications (e.g., motivation, metrics, references, 
+etc.).
 
 ## Motivation
 
