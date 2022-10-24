@@ -29,6 +29,13 @@ frameworks to stay relevant in the machine learning community; therefore, it
 must improve its general-purpose scientific computing capabilities to keep pace 
 with the following expectations:
 
+* machine learning researchers and practitioners expect the scope of primitive 
+  PyTorch operators to widen as the field of machine learning widens (e.g., 
+  solving differential equations or providing geometric constraints).
+* scientists and engineers expect machine learning methods to complement 
+  classic methods, relying on hybrid models that combine traditional techniques 
+  and machine learning components. 
+
 ## Implementation
 
 ## Metrics
