@@ -24,9 +24,10 @@ RFC publications (e.g., motivation, metrics, references, etc.).
 
 ## Motivation
 
-PyTorch needs to adapt quickly to new and existing programming languages and 
-frameworks to stay relevant in the machine learning community. Today we're 
-missing out on a massive area: general-purpose scientific computing.
+PyTorch must adapt quickly to new and existing programming languages and 
+frameworks to stay relevant in the machine learning community; therefore, we 
+must improve PyTorch's general-purpose scientific computing capabilities to 
+remain competitive.
 
 ## Implementation
 
