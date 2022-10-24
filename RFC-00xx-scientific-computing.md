@@ -13,6 +13,7 @@ scientific computing, e.g.,
 * Integration
 * Interpolation
 * Linear Algebra
+* Machine Learning
 * Optimization
 * Probability Distributions
 * Signal Processing
