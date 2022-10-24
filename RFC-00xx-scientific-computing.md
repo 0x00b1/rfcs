@@ -24,6 +24,10 @@ RFC publications (e.g., motivation, metrics, references, etc.).
 
 ## Motivation
 
+PyTorch needs to adapt quickly to new and existing programming languages and 
+frameworks for scientific computing to stay relevant in the machine learning 
+community.
+
 ## Implementation
 
 ## Metrics
